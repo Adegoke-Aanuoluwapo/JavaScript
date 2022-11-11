@@ -5,9 +5,10 @@ Week 6 and 7(JavaScript Task)
 
 ## Authors
 Aanuoluwapo Oye Adegoke
-- [@Aanummaculate]https://github.com/Adegoke-Aanuoluwapo/assignments
+- [@Aanummaculate]https://adegoke-aanuoluwapo.github.io/JavaScript/
 
-
+## Hosted Link
+https://adegoke-aanuoluwapo.github.io/JavaScript/
 ## 🚀 About Me
 I'm a full stack developer intern at Ingressive for Good in collaboration with Zuri...
 

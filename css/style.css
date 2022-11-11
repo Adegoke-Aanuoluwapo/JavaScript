@@ -1,6 +1,8 @@
 .carousel{
     overflow: hidden;
     max-width: 600px;
+    
+    margin: 0 auto;
     position: relative; 
 }
 .carousel .carousel_item,
@@ -10,7 +12,7 @@
 .carousel .carousel_item img{
     width: 100%;
     max-width: 600px;
-    height: auto;
+    height: 80%;
 
 }
 .carousel .carousel_item--visible{
@@ -32,6 +34,7 @@
     cursor: pointer;
     width: 40px;
     height: 40px;
+    margin: 0 auto;
 }
 /**.carousel .carousel_action button {
     margin: 0 20px;
