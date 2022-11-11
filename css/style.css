@@ -1,7 +1,7 @@
 .carousel{
     overflow: hidden;
     max-width: 600px;
-    margin: 0 auto;
+    margin: 120px auto;
     position: relative; 
 }
 .carousel .carousel_item,
